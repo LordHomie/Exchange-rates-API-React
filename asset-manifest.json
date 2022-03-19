@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Exchange-rates-API-React/static/css/main.5d3af755.css",
+    "main.js": "/Exchange-rates-API-React/static/js/main.8057df58.js",
+    "static/media/loading-spinner.gif": "/Exchange-rates-API-React/static/media/loading-spinner.feb919b0d19eb692b391.gif",
+    "index.html": "/Exchange-rates-API-React/index.html",
+    "main.5d3af755.css.map": "/Exchange-rates-API-React/static/css/main.5d3af755.css.map",
+    "main.8057df58.js.map": "/Exchange-rates-API-React/static/js/main.8057df58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3af755.css",
+    "static/js/main.8057df58.js"
+  ]
+}
