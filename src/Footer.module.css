@@ -1,0 +1,30 @@
+.footer {
+  background-color: #230052;
+  padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer span {
+  color: white;
+}
+
+.footer a {
+  color: #4ea8de;
+  transition: color 0.5s ease-in-out;
+}
+
+.footer a:hover {
+  color: white;
+}
+
+.footer p {
+  color: white;
+}
+
+@media (max-width: 500px) {
+  .footer {
+    flex-direction: column;
+  }
+}

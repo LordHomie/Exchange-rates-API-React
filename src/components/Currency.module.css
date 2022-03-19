@@ -1,0 +1,36 @@
+.currency {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #0077b6;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.46);
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  transition: box-shadow 0.5s ease-in-out, background-color 0.5s ease-in-out;
+}
+
+.currency:hover {
+  cursor: pointer;
+  background-color: #0096c7;
+  box-shadow: none;
+}
+
+.currency h2 {
+  font-size: 2rem;
+  color: #bde0fe;
+}
+
+.currency h3 {
+  color: black;
+  font-size: 1.2rem;
+}
+
+@media (max-width: 500px) {
+  .currency {
+    flex-direction: column;
+    padding: 0;
+  }
+}
